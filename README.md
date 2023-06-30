@@ -1,4 +1,4 @@
-![image](https://github.com/BHANKSSS/Big-Data-and-Cloud-Computing/assets/73731578/cf2d91e9-373b-423a-ba76-ae113a3df131)![image](https://github.com/BHANKSSS/Big-Data-and-Cloud-Computing/assets/73731578/39219cf3-a51d-4159-9f3f-78a333160ee5)# Big-Data-and-Cloud-Computing
+# Big-Data-and-Cloud-Computing
 Wildan Miftakhurahman | 21110040 | S1SD02A
 
 Creating, Importing, Querying, and Exporting Data with Amazon DynamoDB Assignment. 
@@ -69,6 +69,9 @@ lets export the result
 ### 1. you sould already familiar with this
 ![image](https://github.com/BHANKSSS/Big-Data-and-Cloud-Computing/assets/73731578/3c800191-31f1-4721-9c0b-127d40e9d01e)
 addional note. you should turn on the PITR (point-in-time-recovery)  or just follow the recent notificarion
+
+## Conclusion
+Amazon DynamoDB is a highly scalable and high-performance NoSQL database service. With a key-value storage model, DynamoDB provides low response times and high throughput. DynamoDB is also flexible in terms of data schemas, allowing arbitrary data storage. With high durability and fault tolerance, DynamoDB maintains high data availability. Overall, DynamoDB is a powerful NoSQL solution for managing large-scale data with fast performance and easy management. With DynamoDB, you can construct tables, import datasets, and run queries or scans to get the information you need.
 ![image](https://github.com/BHANKSSS/Big-Data-and-Cloud-Computing/assets/73731578/d4749379-484c-4ab0-b196-1192f2056309)
 ### 2. choose the bucket destination along with wich table you would export
 ![image](https://github.com/BHANKSSS/Big-Data-and-Cloud-Computing/assets/73731578/bf8265ca-e174-46b0-b644-eb19e5c2fb80)
