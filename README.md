@@ -77,3 +77,6 @@ Amazon DynamoDB is a highly scalable and high-performance NoSQL database service
 ![image](https://github.com/BHANKSSS/Big-Data-and-Cloud-Computing/assets/73731578/bf8265ca-e174-46b0-b644-eb19e5c2fb80)
 ### 3. surprise, surprice, its already on process
 ![image](https://github.com/BHANKSSS/Big-Data-and-Cloud-Computing/assets/73731578/627626d3-68dc-46d2-afb4-e9de72d2e0fa)
+
+## Conclusion
+Amazon DynamoDB is a highly scalable and high-performance NoSQL database service. With a key-value storage model, DynamoDB provides low response times and high throughput. DynamoDB is also flexible in terms of data schemas, allowing arbitrary data storage. With high durability and fault tolerance, DynamoDB maintains high data availability. Overall, DynamoDB is a powerful NoSQL solution for managing large-scale data with fast performance and easy management. With DynamoDB, you can construct tables, import datasets, and run queries or scans to get the information you need.
